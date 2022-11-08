@@ -1,0 +1,2 @@
+# .gitatttributes
+Dev Channel
